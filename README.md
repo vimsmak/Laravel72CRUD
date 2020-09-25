@@ -46,6 +46,24 @@ Format: ![Livewire Demo]
 
 - Contribute to the docs here: https://github.com/livewire/docs
 
+- composer require livewire/livewire
+
+## Create a component
+
+- php artisan make:livewire Comments
+
+ -It will create two new files were created in your project:
+ 1) app/Http/Livewire/Comments.php
+ 2) resources/views/livewire/comments.blade.php
+
+- php artisan make:livewire Tickets
+- php artisan make:livewire Login
+- php artisan make:livewire Register
+- php artisan make:livewire Logout
+- php artisan make:livewire contact-form
+
+
+
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
