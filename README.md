@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## About Laravel Livewre Demo Pages
 
 ![GitHub Livewire Demo](/screenshot/Livewire.png)
 Format: ![Livewire Demo](url)
