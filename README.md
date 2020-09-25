@@ -12,6 +12,9 @@
 ![GitHub Livewire Demo](/screenshot/Livewire.png)
 Format: ![Livewire Demo]
 
+![GitHub Livewire Demo](/screenshot/Livewire-Register.png)
+Format: ![Livewire Demo]
+
 ![GitHub Livewire Demo](/screenshot/Livewire-Full_page.png)
 Format: ![Livewire Demo]
 
@@ -25,6 +28,8 @@ Format: ![Livewire Demo]
 ![GitHub Livewire Demo](/screenshot/Livewire-Multiple-Img.png)
 Format: ![Livewire Demo]
 
+![GitHub Livewire Demo](/screenshot/Livewire-Album.png)
+Format: ![Livewire Demo]
 
 ![GitHub Livewire Demo](/screenshot/Livewire-Img-Slideshow.png)
 Format: ![Livewire Demo]
